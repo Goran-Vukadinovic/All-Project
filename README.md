@@ -1,7 +1,6 @@
 # About Me
 Address: Ratnih invalida 4/12, Sabac, 1500, Serbia <br/>
-Email: gvukadinovicfl@gmail.com<br/>
-Skype: live:.cid.87b92ca2cb55324f
+
 
 # Let's talk in skype.
 
