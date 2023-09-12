@@ -25,5 +25,8 @@ Self-starter, self-driven, self- motivated individual with the vision of helping
 • Reverse Engineering C# Application(DnSpy, C#, C++). (4/2023 – 6/2023) <br/>
 • Development of a Robot Remote Control System with RTMP streaming and Remote Camera Control functions. (QT) (3/2023 - 7/2023)<br/>
 • Development of a 3D fighting game. (C++, DirectX) (4/2023 - 6/2023)<br/>
+• Development of a Audio plugin using JUCE framework. (C++) (7/2023 - 8/2023)<br/>
+• Development of a Microsoft Windows 10 Driver installer using Wix Toolset. (XML/C++) (8/2023 - 9/2023)<br/>
+• Reverse engineering of Windows driver using IDA. (IDA/WDK/C++) (6/9/2023 - 11/9/2023)<br/>
 <br/>
 
