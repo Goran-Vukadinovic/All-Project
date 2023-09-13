@@ -1,8 +1,4 @@
 # About Me
-Address: Ratnih invalida 4/12, Sabac, 1500, Serbia <br/>
-
-
-
 
 Senior Software Engineer with rich programming skills. <br/>
 Took part in development of many Desktop App, Web site and Mobile App.<br/>
