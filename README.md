@@ -16,6 +16,7 @@ Self-starter, self-driven, self- motivated individual with the vision of helping
 • Development and Management and DDOS defense server. (Node.JS, Cloud Flare API) (5/2018 – 10/2019) <br/>
 • Development of some Android/iPhone projects using Xamarin, MAUI, Avalonia. (C#, Java) (11/2021 - 1/2023) <br/>
 • Development some Android App (Unity3D, Cocos2D, Cocos Creator, C#, C++). (11/2019 – 7/2022) <br/>
+• Development of PDF document generate and manage system (Qt, C++). (4/2022 – 9/2022) <br/>
 • Development of Audio plugin. (C++/JUCE framwork) (10/2022 - 1/2023) <br/>
 • Development of a Track Management System called TrackBoss. (C#/WPF/Syncfusion) (1/2023 - 5/2023) <br/>
 • Reverse Engineering C# Application(DnSpy, C#, C++). (4/2023 – 6/2023) <br/>
